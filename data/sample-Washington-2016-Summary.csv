@@ -1,0 +1,16 @@
+duration,month,hour,day_of_week,user_type
+7.123116667,3,8,Monday,Subscriber
+9.792516667,2,22,Thursday,Subscriber
+6.632983333,3,6,Monday,Customer
+7.4047,1,22,Wednesday,Subscriber
+13.01458333,12,`1,Thursday,Customer
+17.0552,3,22,Friday,Subscriber
+11.01165,11,22,Friday,Subscriber
+30.01175,5,21,Monday,Subscriber
+3.626816667,3,21,Thursday,Subscriber
+6.592133333,3,7,Thursday,Subscriber
+16.91231667,9,21,Saturday,Customer
+4.016983333,3,1,Sunday,Subscriber
+102.9991833,1,21,Saturday,Customer
+23.82913333,3,2,Tuesday,Subscriber
+2.4967,1,6,Thursday,Subscriber
